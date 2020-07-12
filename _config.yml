@@ -10,20 +10,20 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Lisa M. Simpson"
-resume_title:                   "VP of Global Communications"
+resume_name:                    "Stéphane Faucher"
+resume_title:                   "Développeur"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "stephane.faucher@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       "514-918-9270"
+resume_contact_address:         "Laval, Québec"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
-display_header_contact_info:    "false"
+resume_header_contact_info:     "Laval, Québec • 514-918-9270 • stephane.faucher@gmail.com"
+display_header_contact_info:    "true"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>Je me considère comme une personne dynamique, capable d'initiative et de débrouillardise. Je suis à l'écoute de mes clients pour qui je vise la satisfaction par une garantie de résultat.</p><p>Je suis capable d'avoir une vue d'ensemble des projets qui me sont confiés et je peux atteindre rapidement les objectifs fixés. Je suis pro-actif dans ma réponse au client en offrant suggestions et propositions en vue d'améliorer constamment le produit recherché.</p><p>Je suis une personne autonome qui requiert peu de supervision. Je possède un bon esprit d'analyse, je suis créatif et bon communicateur. Je vise l'excellence dans les projets dont j'ai la charge parce que j'aime relever des défis stimulants et réussir ce que j'entreprends.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -45,14 +45,14 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
+  resume_github_url:            "https://github.com/sfauch1"
+  resume_twitter_url:           "https://twitter.com/stephanefaucher"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_linkedin_url:          "https://www.linkedin.com/in/stephanefaucher/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://medium.com/@jglovier"
+  # resume_website_url:           "http://joelglovier.com"
+  # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
 # Design settings
