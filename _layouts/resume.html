@@ -81,6 +81,26 @@
       <!-- end Experience -->
       {% endif %}
 
+      {% if site.resume_section_skills %}
+      <!-- begin Skills -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Compétences</h2>
+        </header>
+        {% for skill in site.data.skills %}
+        <div class="resume-item">
+          <h4 class="resume-item-details">{{ skill.skill }}</h4>
+          {% for topic in skill.topics %}
+          <li>{{ topic.topic }}</li>
+          {% endfor %}
+          <p class="resume-item-copy">{{ skill.description }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Skills -->
+      {% endif %}
 
       {% if site.resume_section_education %}
       <!-- begin Education -->
@@ -131,27 +151,6 @@
 
       </section>
       <!-- end Projects -->
-      {% endif %}
-
-      {% if site.resume_section_skills %}
-      <!-- begin Skills -->
-      <section class="content-section">
-
-        <header class="section-header">
-          <h2>Compétences</h2>
-        </header>
-        {% for skill in site.data.skills %}
-        <div class="resume-item">
-          <h4 class="resume-item-details">{{ skill.skill }}</h4>
-          {% for topic in skill.topics %}
-          <li>{{ topic.topic }}</li>
-          {% endfor %}
-          <p class="resume-item-copy">{{ skill.description }}</p>
-        </div>
-        {% endfor %}
-
-      </section>
-      <!-- end Skills -->
       {% endif %}
 
       {% if site.resume_section_recognition %}
