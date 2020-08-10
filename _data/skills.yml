@@ -1,12 +1,31 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# DB
+- skill: Bases de données
+  topics:
+    - topic: SQL Server (T-SQL, SQL Server Integration Services)
+    - topic: MySQL
+    - topic: Oracle (PL/SQL)
+    - topic: MongoDB
+    - topic: Redis
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Programming languages
+- skill: Langages de programmation
+  topics:
+    - topic: PHP
+    - topic: Python
+    - topic: T-SQL, PL/SQL
+    - topic: ASP
+    - topic: Javascript
+    - topic: HTML, CSS
+    - topic: Java
+    - topic: VB 
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Tools
+- skill: Outils
+  topics: 
+    - topic: Framework Symfony
+    - topic: Doctrine
+    - topic: Git (Github, Gitlab, Gitflow)
+    - topic: Gestionnaires de dépendances (composer, npm, yarn, pip)
+    - topic: Environnements de développment Vagrant (Laravel Homestead, Ubuntu Xenial64)
+    - topic: Jira

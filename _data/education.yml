@@ -1,13 +1,30 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Attestation d'études collégiales (AEC)
+  diploma: aec_mobile.jpg
+  school: Collège Montmorency
+  year: 2014 &mdash; 2015
+  award: Développement d'applications pour appareils mobiles Android
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: 420­C01­SF ­ Programmation orientée objet Java (mention réussie)
+    - award: 420­C02­SF ­ Programmation en mobilité (mention réussie)
+    - award: 420­C03­SF ­ Développement avancé en mobilité (mention réussie)
+    - award: 420­C04­SF ­ Le Mobile et le Web (Responsive) (mention réussie)
+    - award: 420­C05­SF ­ Gestion de la qualité et évolutivité (mention réussie)
+    - award: 420­C06­SF ­ Projet Synthèse (mention réussie)
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+  summary: Organisateur de Meetup Android avec les finissants
+
+- degree: Attestation de formation en Anglais 0032
+  school: Centre de formation Linguistique ELC
+  year: 2003
+
+- degree: Certificat d'études collégiales (CEC)
+  diploma: cec_delta.jpg
+  school: Collège Delta
+  year: 1992 &mdash; 1994
+  award: Programmeur Analyste 420­52
+
+- degree: Diplôme d'études secondaires (DES) 
+  diploma: des.jpg
+  school: Curé­-Antoine ­Labelle
+  year: 1982 &mdash; 1987

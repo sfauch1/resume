@@ -1,19 +1,76 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Vigilance Sante
+- company: Vigilance Santé
+  position: Développeur PHP et Python
+  duration: Mars 2017 &mdash; Présent
+  summary: En tant que développeur et analyste du département des données mon rôle consiste principalement à analyser, évaluer et mettre en place les fonctionnalités requises par les clients et ce dans un cadre Agile suivant une approche de déploiement continu.
+  tasks:
+    - task: Création, optimisation et maintenance de banques de données MySQL
+    - task: Programmation de procédures stockées et fonctions MySQL
+    - task: Participer à l'analyse des besoins du client
+    - task: Déploiement des applications Symfony sur les différents environnements
+    - task: Migration des applications Symfony vers les versions LTS
+    - task: Mise en place de déploiement continu
+    - task: Développement suivant la méthodologie Agile
+    - task: Support aux usagers
+  achievements:
+    - achievement: Système de gestion des DIN selon les informations provenant de différents fournisseurs
+    - achievement: Système vérifiant l'intégrité de données Redis 
+    - achievement: Interface avec l'API de Santé Canada pour la récupération de données relatives aux médicaments et produits naturels
+# Cyframe
+- company: CyFrame
+  position: Développeur PHP
+  duration: Juillet 2014 &mdash; Mars 2017
+  #summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+  tasks:
+    - task: Conversion d'une application de type mainframe vers une application web avec le framework Symfony
+    - task: Participer à l'analyse des besoins du client
+    - task: Programmation de procédures stockées Oracle avec PL­SQL (Procedural Language/Structured Query Language)
+    - task: Création et modifications de rapports Crystal Reports
+    - task: Support aux usagers
+  achievements:
+    - achievement: Système de gestion de bons de travail avec modules de facturation et de feuilles de temps
+    - achievement: Intégration d'un module de sécurité pour les impressions de chèques
+    - achievement: Intégration des groupes et rôles de sécurité sous Symfony avec interfaces de gestion
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Altilogix Inc. 
+- company: Altilogix Inc. 
+  position: Développeur ASP et chargé de projet
+  duration: Septembre 2013 &mdash; Juillet 2014
+  summary: En tant que chargé de projet j'étais en charge des itérations de développement d'un logiciel en plus d'être en constante relation avec les clients afin d'analyser leurs besoin et de prioriser les fonctionnalités demandées.
+  tasks:
+    - task: Création, optimisation et maintenance de banques de données MS SQL Server
+    - task: Programmation de procédures stockées avec Transact­SQL (T­SQL)
+    - task: Configuration de serveurs web sous IIS 7
+    - task: Support aux usagers
+  
 
+# Sears Canada Inc. 
+- company: Sears Canada Inc. 
+  position: Développeur ASP
+  duration: Septembre 2002 &mdash; Septembre 2013
+  summary: Mon rôle consistait à développer des applications web pour l'intranet de Sears Canada Inc. principalement pour les secteurs de la Logistique et des Centres d'appel et ce à l'échelle Nationale. Mon but était de fournir des outils convivials aux utlisateurs afin de rendre leurs travail journalier plus productif tout en offrant un retour sur l'investissement avantageux pour la compagnie.
+  tasks:
+    - task: Création, optimisation et maintenance de banques de données MS SQL Server
+    - task: Programmation de procédures stockées avec Transact­SQL (T­SQL)
+    - task: Programmation de paquets SQL Server Integration Services (SSIS)
+    - task: Création de rapports Excel avec OfficeWriter
+    - task: Support aux usagers
+  achievements:
+    - achievement: Système de planification des arrivées de remorques
+    - achievement: Système de suivi des non­-confirmités de la marchandise avec charges aux fournisseurs
+    - achievement: Système de gestion des heures travaillées
+    - achievement: Système de décision pour l'entreposage de la marchandise
+    - achievement: Système de notation pour les appels téléphoniques des agents
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Sears Canada Inc. 
+- company: Sears Canada Inc. 
+  position: Développeur Microsoft Access
+  duration: Janvier 1997 &mdash; Septembre 2002
+  summary: Mon rôle consistait à développer et maintenir à jour des applications MS­Access pour le centre de distribution de Montréal.
+  tasks:
+    - task: Création et maintenance de banques de données
+    - task: Requêtes SQL
+    - task: Création et modifications de formulaires
+    - task: Création et modifications de rapports administratifs
+    - task: Support aux usagers
